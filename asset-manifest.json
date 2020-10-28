@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mobileFirst/static/css/main.c161640f.chunk.css",
+    "main.js": "/mobileFirst/static/js/main.4c2cfea1.chunk.js",
+    "main.js.map": "/mobileFirst/static/js/main.4c2cfea1.chunk.js.map",
+    "runtime-main.js": "/mobileFirst/static/js/runtime-main.b5fe4c7e.js",
+    "runtime-main.js.map": "/mobileFirst/static/js/runtime-main.b5fe4c7e.js.map",
+    "static/css/2.6a770793.chunk.css": "/mobileFirst/static/css/2.6a770793.chunk.css",
+    "static/js/2.c8b7ad50.chunk.js": "/mobileFirst/static/js/2.c8b7ad50.chunk.js",
+    "static/js/2.c8b7ad50.chunk.js.map": "/mobileFirst/static/js/2.c8b7ad50.chunk.js.map",
+    "index.html": "/mobileFirst/index.html",
+    "precache-manifest.3823a3c28584033947988720301d0ccd.js": "/mobileFirst/precache-manifest.3823a3c28584033947988720301d0ccd.js",
+    "service-worker.js": "/mobileFirst/service-worker.js",
+    "static/css/2.6a770793.chunk.css.map": "/mobileFirst/static/css/2.6a770793.chunk.css.map",
+    "static/css/main.c161640f.chunk.css.map": "/mobileFirst/static/css/main.c161640f.chunk.css.map",
+    "static/js/2.c8b7ad50.chunk.js.LICENSE.txt": "/mobileFirst/static/js/2.c8b7ad50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5fe4c7e.js",
+    "static/css/2.6a770793.chunk.css",
+    "static/js/2.c8b7ad50.chunk.js",
+    "static/css/main.c161640f.chunk.css",
+    "static/js/main.4c2cfea1.chunk.js"
+  ]
+}
